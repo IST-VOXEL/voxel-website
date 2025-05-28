@@ -10,7 +10,7 @@ header:
 
 <!-- Marta -->
 <div class="team-member-row">
-  <img src="/assets/images/MF.png" alt="Marta Fajardo" class="team-photo-side">
+  <img src="{{ '/assets/images/MF.png' | relative_url }}" alt="Marta Fajardo" class="team-photo-side">
   <div class="team-info">
     <h3>Marta Fajardo</h3>
     <p><a href="mailto:marta.fajardo@tecnico.ulisboa.pt">marta.fajardo@tecnico.ulisboa.pt</a></p>
