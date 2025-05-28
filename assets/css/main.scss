@@ -7,3 +7,74 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// --- Your custom styles ---
+.news-row {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 2rem;
+  }
+  
+  .news-item {
+    flex: 1;
+    min-width: 0;
+    padding: 1rem;
+    border-radius: 10px;
+    background: #f9f9f9;
+  }
+
+.page__content p {
+  text-align: justify;
+}
+
+.layout--posts .archive__item-title {
+  text-align: justify;
+}
+
+.layout--posts .archive__item-excerpt {
+  text-align: justify;
+  line-height: 1.7;
+}
+
+.homepage-news .news-item img {
+  height: 180px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 6px;
+}
+
+a,
+.archive__item-title a,
+.page__title a {
+  color: #222 !important;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover,
+.archive__item-title a:hover,
+.page__title a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+.team-member-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.team-photo-side {
+  width: 250px;               /* increase size */
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-top: 1rem;         /* better vertical alignment */
+  flex-shrink: 0;
+}
+
+.team-info {
+  flex: 1;
+  text-align: left;
+}

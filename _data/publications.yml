@@ -1,0 +1,103 @@
+
+- authors: "Ansia, L., Williams, G. O., Fajardo, M., & Velarde, P."
+  title: "Relaxation pathways in x-ray free electron laser heated iron"
+  journal: "Physical Review E"
+  year: 2025
+  doi: "https://doi.org/10.1103/1qp9-mjn8"
+  
+- title: "High-aspect-ratio, ultratall silica meta-optics for high-intensity structured light"
+  authors: "Beatriz Oliveira, Pablo San Miguel Claveria, Pedro D. R. Araujo, Patricia Estrela, Ines Gonçalves, Maria Ines S. Nunes, Rui Meirinho, Marta Fajardo, and Marco Piccardo"
+  journal: "Optica"
+  volume: "12"
+  pages: "713-719"
+  year: 2025
+  doi: "https://doi.org/10.1364/OPTICA.559278"
+  
+- authors: "M. Hussain, G.O. Williams, T. Imran, M. Fajardo"
+  title: "Non-linear propagation effects of intense femtosecond pulses on below bandgap harmonics in solids"
+  journal: "Journal of Modern Optics"
+  year: 2023
+  volume: 70
+  pages: "197-204"
+  doi: "https://doi.org/10.1080/09500340.2023.2219773"
+
+- authors: "Sven Fröhlich, Xu Liu, Aimrane Hamdou, Alric Meunier, Mukhtar Hussain, et al."
+  title: "Self-probed ptychography from semiconductor high-harmonic generation"
+  journal: "Optics Letters"
+  year: 2022
+  volume: 47
+  pages: "4865-4868"
+  doi: "https://doi.org/10.1364/OL.471113"
+
+- title: "Demonstration of nonperturbative and perturbative third-harmonic generation in MgO by altering the electronic structure"
+  authors: "Mukhtar Hussain, Fernando Lima, Willem Boutu, Hamed Merdji, Marta Fajardo, and Gareth O. Williams"
+  journal: "Physical Review A"
+  year: 2022
+  volume: 105
+  pages: "053103"
+  doi: "https://doi.org/10.1103/PhysRevA.105.053103"
+
+- title: "Spectral control of high order harmonics through non-linear propagation effects"
+  authors: "M. Hussain, S. Kaassamani, T. Auguste, W. Boutu, D. Gauthier, M. Kholodtsova, J.-T. Gomes, L. Lavoute, D. Gaponov, N. Ducros, S. Fevrier, R. Nicolas, T. Imran, P. Zeitoun, G. O. Williams, M. Fajardo, and H. Merdji"
+  journal: "Applied Physics Letters"
+  year: 2021
+  volume: 119
+  pages: "071101"
+  doi: "https://doi.org/10.1063/5.0053152"
+
+- title: "The data-driven future of high-energy-density physics"
+  authors: "Peter W. Hatfield, Jim A. Gaffney, Gemma J. Anderson, Suzanne Ali, Luca Antonelli, Suzan Başeğmez du Pree, Jonathan Citrin, Marta Fajardo, Patrick Knapp, Brendan Kettle, Bogdan Kustowski, Michael J. MacDonald, Derek Mariscal, Madison E. Martin, Taisuke Nagayama, Charlotte A. J. Palmer, J. Luc Peterson, Steven Rose, J. J. Ruby, Carl Shneider, Matt J. V. Streeter, Will Trickey, Ben Williams"
+  journal: "Nature"
+  year: 2021
+  volume: 593
+  pages: "351-361"
+  doi: "https://doi.org/10.1038/s41586-021-03382-w"
+
+- title: "Single-shot spatial coherence characterization of x-ray ultrafast sources"
+  authors: "Joana Duarte, Aura Inés Gonzalez, Rémy Cassin, Rana Nicolas, Maria Kholodstova, Willem Boutu, Marta Fajardo, and Hamed Merdji"
+  journal: "Optics Letters"
+  year: 2021
+  volume: 46
+  pages: "1764-1767"
+  doi: "https://doi.org/10.1364/OL.413643"
+
+- title: "Lithium fluoride detectors for high spatial resolution imaging of tabletop XUV from high harmonic generation in gases"
+  authors: "Patrícia Estrela, Ermelinda Maçôas, Gareth Williams, Mukhtar Hussain, and Marta Fajardo"
+  journal: "Journal of the Optical Society of America B"
+  year: 2021
+  volume: 38
+  pages: "2234-2238"
+  doi: "https://doi.org/10.1364/JOSAB.422767"
+
+- title: "Controlling the non-linear optical properties of MgO by tailoring the electronic structure"
+  authors: "Mukhtar Hussain, Hugo Pires, Willem Boutu, Dominik Franz, Rana Nicolas, Tayyab Imran, Hamed Merdji, Marta Fajardo, and Gareth O. Williams"
+  journal: "Applied Physics B"
+  year: 2020
+  volume: 126
+  pages: "1-7"
+  doi: "https://doi.org/10.1007/s00340-020-7393-7"
+
+- title: "High-harmonic generation wave front dependence on a driving infrared wave front"
+  authors: "Thomas Wodzinski, Swen Künzel, Jayanath C. P. Koliyadu, Mukhtar Hussain, Barbara Keitel, Gareth O. Williams, Philippe Zeitoun, Elke Plönjes, and Marta Fajardo"
+  journal: "Applied Optics"
+  year: 2020
+  volume: 59
+  pages: "1363-1370"
+  doi: "https://doi.org/10.1364/AO.59.001363"
+
+- title: "Tracking the ultrafast XUV optical properties of x-ray free-electron-laser heated matter with high-order harmonics"
+  authors: "Gareth O. Williams, S. Künzel, S. Daboussi, B. Iwan, A. I. Gonzalez, W. Boutu, V. Hilbert, U. Zastrau, H. J. Lee, B. Nagler, E. Granados, E. Galtier, P. Heimann, B. Barbrel, G. Dovillaire, R. W. Lee, J. Dunn, V. Recoules, C. Blancard, P. Renaudin, A. G. de la Varga, P. Velarde, P. Audebert, H. Merdji, Ph. Zeitoun, and M. Fajardo"
+  journal: "Physical Review A"
+  year: 2018
+  volume: 97
+  pages: "023414"
+  doi: "https://doi.org/10.1103/PhysRevA.97.023414"
+
+- title: "Optimization and characterization of high-harmonic generation for probing solid density plasmas"
+  authors: "Jayanath Koliyadu, S. Künzel, Thomas Wodzinski, Barbara Keitel, Joana Duarte, Gareth O. Williams, Celso P. João, Hugo Pires, Victor Hariton, Mario Galletti, Nuno Gomes, Gonçalo Figueira, João Mendanha Dias, Nelson Lopes, Philippe Zeitoun, Elke Plönjes, and Marta Fajardo"
+  journal: "Photonics"
+  year: 2017
+  volume: 4
+  pages: "2"
+  doi: "https://doi.org/10.3390/photonics4020025"
+
