@@ -16,9 +16,10 @@ Marta Fajardo, an IPFN researcher and Associate Professor in the Physics Departm
 
 This achievement highlights Martas commitment and significant contributions to physics research.
 
-Congratulations, Martad a new XUV spectrometer ??? ready for high-resolution measurements.
+Congratulations, Marta!
 
 <div style="text-align: center;">
-  <img src="/assets/images/MF_AGRE.jpeg" alt="Marta Fajardo" style="width: 100%;">
+  <img src="{{ '/assets/images/MF_AGRE.jpeg' | relative_url }}" alt="Marta Fajardo" style="width: 100%;">
 </div>
+
 
