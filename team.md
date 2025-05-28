@@ -20,7 +20,7 @@ header:
 
 <!-- Gareth -->
 <div class="team-member-row">
-  <img src="/assets/images/GW.png" alt="Gareth Williams" class="team-photo-side">
+  <img src="{{ '/assets/images/GW.png' | relative_url }} alt="Gareth Williams" class="team-photo-side">
   <div class="team-info">
     <h3>Gareth Williams</h3>
     <p><a href="mailto:gareth.williams@tecnico.ulisboa.pt">gareth.williams@tecnico.ulisboa.pt</a></p>
@@ -30,7 +30,7 @@ header:
 
 <!-- Lucas -->
 <div class="team-member-row">
-  <img src="/assets/images/LA.jpeg" alt="Lucas Ansia" class="team-photo-side">
+  <img src="{{ '/assets/images/LA.jpeg' | relative_url }} alt="Lucas Ansia" class="team-photo-side">
   <div class="team-info">
     <h3>Lucas Ansia</h3>
     <p><a href="mailto:lucas.ansia.fernandez@tecnico.ulisboa.pt">lucas.ansia.fernandez@tecnico.ulisboa.pt</a></p>
@@ -40,7 +40,7 @@ header:
 
 <!-- Matilde -->
 <div class="team-member-row">
-  <img src="/assets/images/MFe.jpeg" alt="Matilde Fernandes" class="team-photo-side">
+  <img src="{{ '/assets/images/MFe.jpeg' | relative_url }} alt="Matilde Fernandes" class="team-photo-side">
   <div class="team-info">
     <h3>Matilde Fernandes</h3>
     <p><a href="mailto:matilde.fernandes@tecnico.ulisboa.pt">matilde.fernandes@tecnico.ulisboa.pt</a></p>
