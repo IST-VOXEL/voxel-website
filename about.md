@@ -5,7 +5,7 @@ permalink: /about/
 header:
   overlay_image: /assets/images/banner.jpg
 
-excerpt: "Advancing ultrafast science, laser-plasma interaction, and X-ray diagnostics."
+excerpt: "Advancing ultrafast science and shaping the future of X-ray imaging."
 ---
 
 ## VUV to X-rays Experiments with Light
