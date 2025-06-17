@@ -27,13 +27,8 @@ search: false
   text-align: justify;
 }
 
-.layout--posts .archive__item-title {
-  text-align: justify;
-}
-
-.layout--posts .archive__item-excerpt {
-  text-align: justify;
-  line-height: 1.7;
+.homepage-news p {
+  text-align: left !important;
 }
 
 .homepage-news .news-item img {
