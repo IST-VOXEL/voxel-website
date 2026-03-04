@@ -23,9 +23,9 @@ The goal of the **VOXEL team** is to advance understanding of laser-plasma inter
 
 ---
 
-### NanoXCAN
+### [NanoXCAN](https://nanoxcan.eu/)
 
-VOXEL is the coordinator of the **NanoXCAN** project — an **European Innovation Council Pathfinder Project (Grant 101047223)**. We are developing the **X-ray microscope of the future**.
+VOXEL is the coordinator of the **[NanoXCAN](https://nanoxcan.eu/)** project — an **European Innovation Council Pathfinder Project (Grant 101047223)**. We are developing the **X-ray microscope of the future**.
 
 
 
